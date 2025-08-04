@@ -1,5 +1,5 @@
 # 💫 About Me:
-Welcome to my GitHub! 🚀<br><br>Hey there! I'm Shubhachand, a 3rd-year CSE student and a full-stack developer who loves building web apps and exploring new technologies.<br><br>Right now, I'm diving deep into React, Next.js, and Node.js, along with TypeScript, GraphQL, and Tailwind CSS to level up my skills. I'm also exploring backend optimization which is both exciting and challenging!<br><br>When I’m not coding, I’m probably debugging—both my code and my life decisions. 😆
+Welcome to my GitHub! 🚀<br><br>Hey there! I'm Shubhachand, final year CSE student and a full-stack developer who loves building web apps and exploring new technologies.<br><br>Right now, I'm diving deep into React, Next.js, and Node.js, along with TypeScript, GraphQL, and Tailwind CSS to level up my skills. I'm also exploring backend optimization which is both exciting and challenging!<br><br>When I’m not coding, I’m probably debugging—both my code and my life decisions. 😆
 
 
 ## 🌐 Socials:
