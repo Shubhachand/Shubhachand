@@ -98,22 +98,6 @@ I enjoy solving Data Structures & Algorithms problems, designing backend systems
 
 ---
 
-# 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Shubhachand&theme=tokyonight&hide_border=true&show_icons=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Shubhachand&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Shubhachand&theme=tokyonight&hide_border=true&layout=compact)
-
----
-
-## 🏆 GitHub Trophies
-
-![](https://github-profile-trophy.vercel.app/?username=Shubhachand&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8)
-
----
-
 ## 📈 Contribution Graph
 
 ![](https://github-readme-activity-graph.vercel.app/graph?username=Shubhachand&theme=tokyo-night)
